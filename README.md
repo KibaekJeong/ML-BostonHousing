@@ -1,11 +1,11 @@
 # Machine Learning - Predicting Boston Housing Prices
 
 ## Tables of Contents
-- [Overview](# Overview)
-- [Dependencies](# Dependencies)
-- [Code](# Code)
-- [Running the code](#Running the code)
-- [Data](# Data)
+- [Overview](#Overview)
+- [Dependencies](#Dependencies)
+- [Code](#Code)
+- [Running the code](#Running-the-code)
+- [Data](#Data)
 
 ## Overview
 In following project, we predict the selling price of a house in Boston, Massachusetts area using basing machine learning concepts. In order to perform prediction, data evaluation, model development, and model performance analyzation is done. For predicting model, DecisionTree Regressor is chosen in this project.
