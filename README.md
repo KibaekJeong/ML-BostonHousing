@@ -1,6 +1,6 @@
 # Machine Learning - Predicting Boston Housing Prices
 
-## Tables of Contents
+## Table of Contents
 - [Overview](#Overview)
 - [Dependencies](#Dependencies)
 - [Code](#Code)
